@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on my homelabs
+- 🌱 I’m currently learning machine lerning
+- 👯 I’m looking to collaborate on AI and Computer Vision
 <!--
 **nuralam26/nuralam26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
